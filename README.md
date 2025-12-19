@@ -51,3 +51,7 @@ Job Satisfaction Rating: Shows satisfaction levels by job role, revealing areas 
 Education Field-wise Attrition: Identifies how attrition differs among fields like Life Sciences, Medical, Marketing, and Technical.
 
 Attrition by Gender & Age: Compares male and female attrition rates across age groups, uncovering potential retention gaps among younger employees.
+
+## 5. Business Impact & Insights
+
+The R&D department has the highest attrition, suggesting potential workload or job satisfaction issues. Employees aged 25–34 experience higher attrition, indicating a need for stronger engagement and career development programs. once agin verify every thing does it match with hr dashboard
