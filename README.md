@@ -54,4 +54,10 @@ Attrition by Gender & Age: Compares male and female attrition rates across age g
 
 ## 5. Business Impact & Insights
 
-The R&D department has the highest attrition, suggesting potential workload or job satisfaction issues. Employees aged 25–34 experience higher attrition, indicating a need for stronger engagement and career development programs. once agin verify every thing does it match with hr dashboard
+The R&D department has the highest attrition, suggesting potential workload or satisfaction issues.
+
+Younger employees (25–34) show higher turnover, indicating a need for improved engagement and career development programs.
+
+Life Sciences and Medical education fields contribute most to attrition, warranting further HR attention.
+
+Job satisfaction scores vary significantly by role — providing actionable insight into which teams may require targeted improvement initiatives.
